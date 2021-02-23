@@ -1,0 +1,4 @@
+org/opentelemetry/bike/models/Bike.class
+org/opentelemetry/bike/BikeApplication.class
+org/opentelemetry/bike/repositories/BikeRepository.class
+org/opentelemetry/bike/controllers/BikesController.class
